@@ -69,7 +69,6 @@ No Android Studio, clique em Run → Run 'app'
 
 #### Utilização
 
-Use o menu de opções no canto superior esquerdo para navegação:
 
 ```
 Peencha os campos e pressione calcular
